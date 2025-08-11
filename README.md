@@ -1,2 +1,3 @@
 # Task-5--Elevate-Labs-
  Decision Trees and Random Forests
+This project applies Decision Tree and Random Forest classifiers to the Heart Disease dataset to predict the presence of heart disease. The workflow begins by training a Decision Tree Classifier and visualizing its structure to understand the decision-making process. Overfitting is analyzed by comparing unrestricted trees to trees with limited depth. A Random Forest model is then trained, and its performance is compared to the Decision Tree to highlight the benefits of ensemble methods. Feature importances are interpreted to identify which health metrics most influence predictions. Finally, model performance is validated using cross-validation to ensure robustness and generalization.
